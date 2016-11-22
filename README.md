@@ -1,25 +1,19 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Резюме Мастера Йода
+## Первый проект на Ruby on Rails загруженный на GitHub
 
-Things you may want to cover:
+**Сделано**
 
-* Ruby version
+* Добавлены страницы резюме
 
-* System dependencies
+* Проект загружен на Hiroku
 
-* Configuration
+* Проект загружен на GitHub
 
-* Database creation
 
-* Database initialization
+*__Как сказал сам Йода__*
 
-* How to run the test suite
+>Difficult to see. Always in motion is the future...
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
 # yodacv
